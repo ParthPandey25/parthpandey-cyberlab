@@ -4,6 +4,7 @@ author: parthpandey
 categories: [Cybersecurity, Practical-Experience]
 tags: [tryhackme, nmap, metasploit, hydra, privilege-escalation, windows, linux, troubleshooting, medium]
 render_with_liquid: false
+date: 2026-10-26 23:00:00 +0530
 ---
 
 # Confessions of a Top 2% TryHackMe Practitioner: Where Tools Break, Where I Got Stuck, and What CTFs Actually Teach

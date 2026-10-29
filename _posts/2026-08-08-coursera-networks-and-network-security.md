@@ -1,9 +1,10 @@
 ---
 title: "Google Cybersecurity: Connect and Protect — Networks and Network Security"
 author: parthpandey
-categories: [Coursera, Google Cybersecurity]
+categories: [Coursera, Google-Cybersecurity]
 tags: [course-notes, network-security, tcp-ip, firewalls, vpn, network-protocols]
 render_with_liquid: false
+date: 2026-08-08 14:15:00 +0530
 ---
 
 ## Course Overview

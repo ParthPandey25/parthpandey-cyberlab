@@ -1,9 +1,10 @@
 ---
 title: "Google Cybersecurity: Tools of the Trade — Linux and SQL"
 author: parthpandey
-categories: [Coursera, Google Cybersecurity]
+categories: [Coursera, Google-Cybersecurity]
 tags: [course-notes, linux, sql, command-line, bash, file-permissions]
 render_with_liquid: false
+date: 2026-08-22 16:45:00 +0530
 ---
 
 ## Course Overview

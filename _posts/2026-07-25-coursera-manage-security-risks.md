@@ -1,9 +1,10 @@
 ---
 title: "Google Cybersecurity: Play It Safe — Manage Security Risks"
 author: parthpandey
-categories: [Coursera, Google Cybersecurity]
+categories: [Coursera, Google-Cybersecurity]
 tags: [course-notes, risk-management, nist, security-frameworks, cissp-domains]
 render_with_liquid: false
+date: 2026-07-25 11:30:00 +0530
 ---
 
 ## Course Overview

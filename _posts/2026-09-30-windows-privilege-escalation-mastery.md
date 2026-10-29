@@ -4,6 +4,7 @@ author: parthpandey
 categories: [Privilege-Escalation, Windows]
 tags: [windows, privesc, unquoted-service-paths, dacl, accesschk, seimpersonate, printspoofer]
 render_with_liquid: false
+date: 2026-09-30 18:45:00 +0530
 ---
 
 Privilege escalation on modern Windows operating systems requires understanding operating system internals: how the Service Control Manager (SCM) executes binaries, how access control lists (DACLs) restrict writes, and how token privileges can be manipulated to impersonate `NT AUTHORITY\SYSTEM`.

@@ -1,9 +1,10 @@
 ---
 title: "Google Cybersecurity: Foundations of Cybersecurity"
 author: parthpandey
-categories: [Coursera, Google Cybersecurity]
+categories: [Coursera, Google-Cybersecurity]
 tags: [course-notes, foundations, cia-triad, security-frameworks, nist, cissp]
 render_with_liquid: false
+date: 2026-07-12 10:00:00 +0530
 ---
 
 ## Course Overview

@@ -4,6 +4,7 @@ author: parthpandey
 categories: [TryHackMe, Walkthroughs]
 tags: [windows, ms17-010, eternalblue, smb, metasploit, meterpreter, privesc]
 render_with_liquid: false
+date: 2026-09-22 21:00:00 +0530
 ---
 
 **Blue** is a classic Windows exploitation challenge focused on understanding and exploiting the infamous **MS17-010 (EternalBlue)** vulnerability in Microsoft's SMBv1 implementation. This walkthrough documents the end-to-end kill chain: reconnaissance, vulnerability verification with NSE scripts, remote code execution via Metasploit, kernel pool exploitation, post-exploitation process migration, and credential dumping.

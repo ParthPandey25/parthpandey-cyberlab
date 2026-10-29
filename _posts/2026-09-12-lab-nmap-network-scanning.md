@@ -1,9 +1,10 @@
 ---
 title: "Lab: Nmap Network Scanning Fundamentals"
 author: parthpandey
-categories: [Labs]
+categories: [Labs, Network-Security]
 tags: [nmap, network-scanning, enumeration, network]
 render_with_liquid: false
+date: 2026-09-12 18:00:00 +0530
 ---
 
 ## Objective

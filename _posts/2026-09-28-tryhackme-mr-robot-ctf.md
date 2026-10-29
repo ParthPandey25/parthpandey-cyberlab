@@ -1,9 +1,10 @@
 ---
 title: "TryHackMe: Mr. Robot CTF — Web Recon, Dictionary Pruning & SUID Escapes"
 author: parthpandey
-categories: [TryHackMe, Walkthroughs]
+categories: [TryHackMe, Case-Studies]
 tags: [linux, web, ctf, robots-txt, wpscan, hydra, privilege-escalation, suid, nmap]
 render_with_liquid: false
+date: 2026-09-28 22:15:00 +0530
 ---
 
 **Mr. Robot** is a widely acclaimed medium-difficulty Linux CTF based on the hit television series. It provides a textbook multi-stage attack chain: unearthing hidden resources in `robots.txt`, dealing with a massive wordlist using standard Unix text filtering, brute-forcing a WordPress administrative panel, weaponizing theme templates for web shell execution, and finally escalating privileges via misconfigured SUID binaries.

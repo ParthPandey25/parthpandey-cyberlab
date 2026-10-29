@@ -1,9 +1,10 @@
 ---
 title: "Google Cybersecurity: Assets, Threats, and Vulnerabilities"
 author: parthpandey
-categories: [Coursera, Google Cybersecurity]
+categories: [Coursera, Google-Cybersecurity]
 tags: [course-notes, assets-threats, vulnerability-assessment, threat-modeling, cryptography, authentication]
 render_with_liquid: false
+date: 2026-09-05 10:30:00 +0530
 ---
 
 ## Course Overview
