@@ -212,3 +212,4 @@ C:\Windows\system32> type "C:\Users\Administrator\Desktop\root.txt"
 | **CVE-2014-6287** | Decommission or upgrade Rejetto HFS. Legacy HTTP file sharing services should be replaced with hardened SFTP or enterprise object storage solutions. |
 | **Unquoted Service Paths** | Wrap all Windows service binary paths in quotes within the registry: `HKLM\SYSTEM\CurrentControlSet\Services\<ServiceName>\ImagePath`. Example: `"C:\Program Files (x86)\IObit\Advanced SystemCare\ASCService.exe"`. |
 | **Directory ACLs** | Enforce strict ACLs on `C:\Program Files\` and subdirectories so non-administrative users cannot create files or subfolders. |
+

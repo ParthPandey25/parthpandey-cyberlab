@@ -251,3 +251,4 @@ fleeb juice
 
 3. **Insecure Sudoers Configuration**:
    - Granting `(ALL) NOPASSWD: ALL` to a web server account (`www-data`) negates all Linux operating system boundaries. Web services should run under strictly sandboxed service accounts with minimal filesystem read/write privileges.
+

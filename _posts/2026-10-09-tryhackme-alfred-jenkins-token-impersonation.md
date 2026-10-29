@@ -279,3 +279,4 @@ dff0f7...[REDACTED ROOT FLAG]
 | **Exposed Management Ports** | Restrict port 8080 binding to `127.0.0.1` or internal VPN management subnets via host firewalls (Windows Defender Firewall) or network ACLs. |
 | **`SeImpersonatePrivilege` Abuse** | Service accounts should only receive minimal required privileges. Windows Server administrators should remove `SeImpersonatePrivilege` from service accounts that do not strictly require named pipe impersonation. |
 | **Endpoint Detection (EDR)** | Configure Sysmon Event ID 10 (ProcessAccess) and Event ID 1 (Process Creation) to alert on token impersonation tools (`incognito`, `PrintSpoofer`, `GodPotato`). |
+

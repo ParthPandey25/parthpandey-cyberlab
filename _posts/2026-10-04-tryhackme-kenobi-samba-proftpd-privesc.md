@@ -268,3 +268,4 @@ root
 | **ProFTPD `mod_copy`** | Upgrade ProFTPD to $\ge$ 1.3.6. In `/etc/proftpd/proftpd.conf`, explicitly disable `mod_copy` or enforce `<Limit SITE_MKDIR SITE_RMDIR SITE_CPFR SITE_CPTO>` to authenticated administrative users only. |
 | **NFS Share Export** | In `/etc/exports`, never export `/var` or filesystems containing sensitive runtime state to wildcard (`*`). Require explicit client IP CIDRs and append `root_squash` and `nosuid`. |
 | **SUID Path Manipulation** | In custom C binaries, **always supply absolute binary paths** (e.g. `/usr/bin/curl` instead of `curl`). Clear or sanitize the runtime environment via `clearenv()` before issuing `system()` or `execve()` calls. |
+
