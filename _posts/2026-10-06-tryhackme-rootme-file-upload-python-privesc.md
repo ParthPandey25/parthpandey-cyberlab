@@ -189,3 +189,4 @@ We now have full, unrestricted root control over the operating system.
 2. **SUID Permission Auditing**:
    - Compilers, scripting interpreters (`python`, `perl`, `ruby`), and text editors must **never** possess SUID permissions.
    - Run automated compliance audits using `cis-cat` or `lynis` to flag unexpected SUID binaries on all production hosts.
+

@@ -173,3 +173,4 @@ Legitimate DNS lookups feature high query repetition for standard root domains (
 ```
 
 Mastering Splunk SPL and Sysmon event telemetry allows an analyst to elevate from passively acknowledging alerts to conducting deep behavioral threat hunts that catch modern adversaries before ransomware deployment or data exfiltration occurs.
+

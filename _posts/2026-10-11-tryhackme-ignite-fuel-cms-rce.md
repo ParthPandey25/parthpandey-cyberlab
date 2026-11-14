@@ -184,3 +184,4 @@ Authentication succeeds instantly, providing full `root` control.
 | **Fuel CMS CVE-2018-16763** | Upgrade Fuel CMS to version $\ge 1.4.3$, where input sanitization is strictly enforced on all `filter` variables. |
 | **Credential Reuse** | Enforce password uniqueness across database accounts and operating system administrative accounts. The Linux `root` account should never share passwords with application databases. |
 | **Disable Password Authentication for Root** | Enforce `PermitRootLogin prohibit-password` in `/etc/ssh/sshd_config` and restrict `su` binary execution to members of the `wheel` or `sudo` group via PAM (`/etc/pam.d/su`). |
+

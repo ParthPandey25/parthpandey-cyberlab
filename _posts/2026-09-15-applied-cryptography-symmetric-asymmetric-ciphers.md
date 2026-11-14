@@ -109,3 +109,4 @@ Client                                                   Server
 ```
 
 Understanding the mathematical constraints of cryptography is crucial for every security analyst. It allows you to audit cryptographic implementations, identify insecure ciphers, and enforce strong cryptographic postures across enterprise communications.
+

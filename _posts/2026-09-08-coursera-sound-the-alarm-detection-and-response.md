@@ -106,3 +106,4 @@ When triaging alerts, SOC analysts classify Indicators of Compromise (IoCs) acco
 ## SOC Analyst Reflection
 
 The biggest takeaway from this course is that **preventative controls always fail eventually**. Modern security operations assume breach: success is measured not by whether an attacker touches your network, but by **Mean Time to Detect (MTTD)** and **Mean Time to Remediate (MTTR)**. Mastering SIEM correlation and IDS signature logic is the bedrock of defensive cybersecurity.
+
